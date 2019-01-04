@@ -1,0 +1,1 @@
+# rust-trait-training
